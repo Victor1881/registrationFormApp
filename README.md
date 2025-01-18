@@ -47,7 +47,6 @@ Testing Technologies:
 <h2>captcha.js</h2>
 
 <h4>Generates custom CAPTCHA codes</h4>
-<h4>No external services used</h4>
 
 <h2>paseto.js</h2>
 
