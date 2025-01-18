@@ -10,7 +10,7 @@
 <h4>Bcrypt - For password hashing</h4>
 <h4>Custom CAPTCHA implementation</h4>
 
-</h2>Additional Technologies/Libraries</h2>
+<h2>Additional Technologies/Libraries</h2>
 <h4>Express-session - For session handling (seen in the CAPTCHA implementation)</h4>
 <h4>Cookie-parser - For handling authentication cookies</h4>
 <h4>Crypto - For generating secure keys (used with PASETO)</h4>
