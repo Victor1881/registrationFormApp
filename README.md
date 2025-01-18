@@ -8,7 +8,7 @@
 <h2>Security and Authentication</h2>
 <h4>PASETO - For secure token-based authentication</h4>
 <h4>Bcrypt - For password hashing</h4>
-<h4>Custom CAPTCHA implementation</h4>
+<h4>CAPTCHA implementation</h4>
 
 <h2>Additional Technologies/Libraries</h2>
 <h4>Express-session - For session handling (seen in the CAPTCHA implementation)</h4>
