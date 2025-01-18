@@ -41,8 +41,8 @@ Testing Technologies:
 
 <h4>Contains all data validation logic</h4>
 <h4>Validates email format and length</h4>
-<h4>Checks name requirements (3-50 characters)</h4>
-<h4>Verifies password requirements (uppercase, special chars, length)</h4>
+<h4>Checks name requirements</h4>
+<h4>Verifies password requirements</h4>
 
 <h2>captcha.js</h2>
 
