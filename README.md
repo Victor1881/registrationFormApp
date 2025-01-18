@@ -4,6 +4,8 @@
 <h4>Express.js -For routing and handling HTTP requests</h4>
 <h4>Handlebars - Template engine for views</h4>
 <h4>MySQL - Relational database</h4>
+<h5> &nbsp;  &nbsp; &nbsp;  &nbsp; ● XAMPP installed </h5>
+<h5> &nbsp;  &nbsp; &nbsp;  &nbsp; ● phpMyAdmin for database management </h5>
 
 <h2>Security and Authentication</h2>
 <h4>PASETO - For secure token-based authentication</h4>
