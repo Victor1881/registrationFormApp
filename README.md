@@ -35,7 +35,7 @@ Testing Technologies:
 <h4>Handles login authentication</h4>
 <h4>Gets user data</h4>
 <h4>Updates user information</h4>
-<h4>Works directly with the MySQL database</h4>
+<h4>Works with the MySQL database</h4>
 
 <h2>validations.js</h2>
 
