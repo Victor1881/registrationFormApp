@@ -20,7 +20,7 @@ Testing Technologies:
 <h4>Chai</h4>
 <h4>Sinon</h4>
 
-# Code explanations
+# App Structure
 <h2>userController.js</h2>
 
 <h4>Handles all user-related routes (register, login, edit, logout)</h4>
@@ -79,7 +79,7 @@ Testing Technologies:
 <h4>Tests user operations</h4>
 <h4>Verifies validation logic</h4>
 
-# Functions are used
+# Functions Used
 
 <h2>Bcrypt functions</h2>
 
