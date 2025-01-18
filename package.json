@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "canvas": "^3.0.1",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "express-session": "^1.18.1",
+    "hbs": "^4.2.0",
+    "mysql2": "^3.12.0",
+    "nodemon": "^3.1.9",
+    "paseto": "^3.1.4",
+    "pg": "^8.13.1"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/mocha/bin/mocha.js test/authTest.js --exit",
+    "server": "nodemon ./index.js",
+    "coverage": "c8 npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "c8": "^10.1.3",
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1",
+    "sinon": "^19.0.2",
+    "supertest": "^7.0.0"
+  }
+}

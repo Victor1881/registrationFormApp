@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #333;
+    padding: 1rem;
+}
+
+nav {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+.register-container {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.error-container {
+    max-width: 500px;
+    margin: 15px auto;
+    padding: 12px 20px;
+    background-color: #ffebee;
+    border: 1px solid #ef5350;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.error-message {
+    color: #d32f2f;
+    font-size: 15px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+form div {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+
+button {
+    background: #333;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #444;
+}
+
+p {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+a {
+    color: #333;
+}
+
+.captcha-code {
+    font-family: 'Courier New', monospace;
+    font-size: 24px;
+    letter-spacing: 0.5em;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 10px 0;
+    user-select: none;
+    width: fit-content;
+}
+
+.refresh-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #666;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.refresh-button:hover {
+    background-color: #555;
+}
